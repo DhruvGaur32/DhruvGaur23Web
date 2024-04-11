@@ -272,16 +272,18 @@
     }
   
     #Content {
-      list-style: none;
-      display: flex;
-      justify-content: space-around;
-      margin-left: auto; 
-      align-items: center;
-       margin-right: 150px; 
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    /* margin-left: auto; */
+    align-items: center;
+    /* margin-right: 150px; */
+  /* border: 3px solid green; */
         position: relative;
-    left: 90px;
-       /* border: 3px solid green;  */
-    }
+    /* left: 90px; */
+    left: 90px;
+    
+  }
   
     #intro img {
       position: relative;
